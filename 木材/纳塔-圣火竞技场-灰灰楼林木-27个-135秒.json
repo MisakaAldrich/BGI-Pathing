@@ -10,7 +10,7 @@
   "positions": [
     {
       "id": 1,
-      "action": "",
+      "action": "force_tp",
       "move_mode": "walk",
       "type": "teleport",
       "x": 9084.1533203125,
