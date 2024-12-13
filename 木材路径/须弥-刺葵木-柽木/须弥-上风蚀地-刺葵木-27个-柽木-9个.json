@@ -23,7 +23,7 @@
       "type": "path",
       "move_mode": "walk",
       "action": "combat_script",
-      "action_params": "keypress(VK_Z),wait(1.5)"
+      "action_params": "keypress(VK_Z),wait(2.5)"
     },
     {
       "id": 3,
