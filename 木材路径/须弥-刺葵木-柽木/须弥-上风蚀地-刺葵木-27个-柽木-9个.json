@@ -54,17 +54,23 @@
     },
     {
       "id": 6,
-      "x": 4672.55419921875,
-      "y": -2885.947265625,
-      "type": "path",
-      "move_mode": "run",
+      "x":4669.15283203125,
+      "y":-2887.0947265625,
+      "type":"path",
+      "move_mode":"run",
       "action": "combat_script",
-      "action_params": "keypress(VK_Z),wait(2)"
+      "action_params": "keypress(VK_Z)"
+    },
+    {
+      "x":4670.87109375,
+      "y":-2893.1083984375,
+      "type": "path",
+      "move_mode": "walk"
     },
     {
       "id": 7,
-      "x": 4663.75,
-      "y": -2886.30,
+      "x":4661.06103515625,
+      "y":-2885.802734375,
       "type": "path",
       "move_mode": "walk",
       "action": "combat_script",
@@ -78,8 +84,8 @@
       "move_mode": "fly"
     },
     {
-      "x": 4573.10498046875,
-      "y": -2912.4833984375,
+      "x":4575.041015625,
+      "y":-2911.109375,
       "type": "path",
       "move_mode": "walk",
       "action": "combat_script",
@@ -90,7 +96,7 @@
       "x": 4604.42041015625,
       "y": -2887.408203125,
       "type": "path",
-      "move_mode": "walk",
+      "move_mode": "run",
       "action": "combat_script",
       "action_params": "keypress(VK_Z)"
     },
@@ -125,7 +131,7 @@
       "x": 4698.4580078125,
       "y": -2730.1162109375,
       "type": "path",
-      "move_mode": "walk",
+      "move_mode": "run",
       "action": "combat_script",
       "action_params": "keypress(VK_Z)"
     }

@@ -24,7 +24,7 @@
       "type": "path",
       "move_mode": "walk",
       "action": "combat_script",
-      "action_params": "keypress(VK_Z)"
+      "action_params": "keypress(VK_Z),wait(0.3)"
     },
     {
       "id": 5,
@@ -92,14 +92,14 @@
       "x":4655.4921875,
       "y":2485.709716796875,
       "type":"path",
-      "move_mode":"walk"
+      "move_mode":"run"
     },
     {
       "id": 12,
       "x":4651.8828125,
       "y":2447.710205078125,
       "type": "path",
-      "move_mode": "walk",
+      "move_mode": "run",
       "action": "combat_script",
       "action_params": "keypress(VK_Z)"
     }

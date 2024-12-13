@@ -21,7 +21,7 @@
       "x": 350.7763671875,
       "y": 542.86328125,
       "type": "path",
-      "move_mode": "walk",
+      "move_mode": "run",
       "action": ""
     },
     {
@@ -29,7 +29,7 @@
       "x": 367.6201171875,
       "y": 524.19580078125,
       "type": "path",
-      "move_mode": "walk",
+      "move_mode": "run",
       "action": ""
     },
     {
