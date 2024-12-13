@@ -77,7 +77,7 @@
         "type": "path",
         "move_mode": "walk",
         "action": "combat_script",
-        "action_params": "keypress(VK_Z)"
+        "action_params": "keypress(VK_Z),wait(0.7)"
       },
       {
         "id": 11,
@@ -86,7 +86,7 @@
         "type": "path",
         "move_mode": "walk",
         "action": "combat_script",
-        "action_params": "wait(0.7),keypress(VK_Z)"
+        "action_params": "keypress(VK_Z)"
       }
     ]
   }
