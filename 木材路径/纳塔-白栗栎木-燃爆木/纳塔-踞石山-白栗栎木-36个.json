@@ -18,20 +18,19 @@
     },
     {
       "id": 2,
-      "x": 8266.37109375,
-      "y": -2534.0810546875,
+      "x":8279.2275390625,
+      "y":-2523.287109375,
       "type": "path",
-      "move_mode": "fly",
-      "action": "stop_flying"
+      "move_mode": "fly"
     },
     {
       "id": 3,
-      "x": 8275.57421875,
-      "y": -2528.123046875,
+      "x":8279.2275390625,
+      "y":-2523.287109375,
       "type": "path",
       "move_mode": "walk",
       "action": "combat_script",
-      "action_params": "keypress(VK_Z)"
+      "action_params": "attack,wait(2.5),keypress(VK_Z)"
     },
     {
       "id": 4,

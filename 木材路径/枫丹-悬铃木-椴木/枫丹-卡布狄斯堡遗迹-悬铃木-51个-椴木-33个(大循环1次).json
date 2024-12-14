@@ -21,7 +21,7 @@
         "x": 3232.0205078125,
         "y": 2843.3056640625,
         "type": "path",
-        "move_mode": "walk",
+        "move_mode": "run",
         "action": "combat_script",
         "action_params": "keypress(VK_Z)"
       },
@@ -30,7 +30,7 @@
         "x": 3251.67578125,
         "y": 2788.007568359375,
         "type": "path",
-        "move_mode": "walk",
+        "move_mode": "run",
         "action": "combat_script",
         "action_params": "keypress(VK_Z)"
       },
@@ -39,9 +39,9 @@
         "x": 3250.01171875,
         "y": 2762.572509765625,
         "type": "path",
-        "move_mode": "walk",
+        "move_mode": "fly",
         "action": "combat_script",
-        "action_params": "keypress(VK_Z)"
+        "action_params": "attack,wait(2),keypress(VK_Z)"
       },
       {
         "id": 4,
